@@ -1,0 +1,21 @@
+body {
+  margin: 15px;
+  padding: 15px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+}
+
+.square {
+  width: 20px;
+  height: 20px;
+}
+
+.snake {
+  background: green;
+}
